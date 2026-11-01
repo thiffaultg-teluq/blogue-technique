@@ -1,0 +1,6 @@
+[fr]
+  title = "Clarity"
+  LanguageName = "Français"
+  weight = 0
+
+  # tip: assign the default language the lowest Weight
