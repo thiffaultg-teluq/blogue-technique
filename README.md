@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hugoBasicExample
 
 This repository offers an example site for [Hugo](https://gohugo.io/) and also it provides the default content for demos hosted on the [Hugo Themes Showcase](https://themes.gohugo.io/).
@@ -21,3 +22,6 @@ hugo server -t YOURTHEME
 - An `about.md` that is intended to provide the `/about/` page for a theme demo
 6. If you intend to build a theme that does not fit in the content structure provided in this repository, then you are still more than welcome to submit it for review at the [Hugo Themes](https://github.com/gohugoio/hugoThemes/issues) repository
 
+=======
+# blogue-technique
+>>>>>>> ed614f28f12074d0ca9e35da00bf2d0e81346c37
