@@ -1,12 +1,11 @@
 {{- $s := .Site.Params }} {{- $c := default .Site.Title .Site.Copyright }} {{-
 if or .Params.enableMathNotation $s.enableMathNotation }} {{ partialCached
 "math" . }} {{- end }} {{- $imagesDir := default "" .Site.Params.imagesDir }}
-{{- $defaultFooterLogo := printf "%s%s" $imagesDir
-"logos/blog-svgrepo-com.svg"}}
+{{- $defaultFooterLogo := printf "%s%s"}}
 <footer class="footer">
   <div class="footer_inner wrap pale">
     <img
-      src="{{ absURL ($s.footerLogo) }}"
+      src="{{ absURL (default $defaultFooterLogo $s.footerLogo) }}"
       class="icon icon_2 transparent"
       alt="{{ $c }}"
     />
