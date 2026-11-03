@@ -101,9 +101,7 @@
             <a
               href='{{ absLangURL $key }}/{{ (replace .Name "#" "%23") | urlize }}/'
               class="post_tag button button_translucent"
-              data-position="{{"
-              .Count
-              }}
+              data-position="{{ .Count }}"
               title="{{ .Name }}"
             >
               {{- upper .Name -}}
