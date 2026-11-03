@@ -20,7 +20,7 @@
     <div class="author_bio">{{ markdownify $introDescription }}</div>
     {{- if ( ne $s.introURL false ) }} {{- $r := T "read_more" }}
     <a
-      href='{{ absLangURL (default "a-propos/" $s.introURL) }}'
+      href='{{ absLangURL (default "about/" $s.introURL) }}'
       class="button mt-1"
       role="button"
       title="{{ $r }}"
