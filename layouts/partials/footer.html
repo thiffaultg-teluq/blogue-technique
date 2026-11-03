@@ -1,7 +1,7 @@
 {{- $s := .Site.Params }} {{- $c := default .Site.Title .Site.Copyright }} {{-
 if or .Params.enableMathNotation $s.enableMathNotation }} {{ partialCached
 "math" . }} {{- end }} {{- $imagesDir := default "" .Site.Params.imagesDir }}{{-
-$defaultFooterLogo := printf "%s%s" $imagesDir "logos/logo-square.png" }}
+$defaultFooterLogo := "logos/blog-svgrepo-com.svg" }}
 <footer class="footer">
   <div class="footer_inner wrap pale">
     <img
