@@ -1,10 +1,10 @@
 +++
 date = '2026-11-02T17:07:43-05:00'
 draft = false
-title = 'Premiere Publication'
+title = 'Jalon 1 | Fondations'
 tags = [
     "shortcodes",
-    "privacy",
+    "jalon-1",
 ]
 +++
 
