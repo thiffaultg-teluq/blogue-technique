@@ -1,5 +1,5 @@
 ---
-date: 2019-05-28
+date:
 type: section
-layout: "archives"
+layout: 'archives'
 ---
