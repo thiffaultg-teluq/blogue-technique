@@ -57,7 +57,7 @@ _Source : [site web Facebook](https://www.facebook.com/search/groups/?q=vente%20
 
 4. Les villes ont commencé à implanter sur leur site web, l'affiche de ventes de garage, ce qui en soit, sont une bonne nouvelle. Cependant, nous nous retrouvons avec la même problématique qu'avec les différents groupes Facebook. Dans notre région, plusieurs villes limitrophes ont les mêmes dates pour les ventes de garage. De ce fait, pour ne rien manquer, une personne doit consulter l'ensemble des sites des villes. La plateforme pourra être divisée non pas avec les villes, mais avec des bassins pour chaque événement.
 
-![Capture d’écran prise sur le site web de la ville de Salaberry-de-Valleyfield](images/ventes-de-garage-salaberry-de-valleyfield.png)
+![Capture d’écran prise sur le site web de la ville de Salaberry-de-Valleyfield](images/ventes-de-garage-ville.png)
 _Source : [site web de la ville de Salaberry-de-Valleyfield](https://www.ville.valleyfield.qc.ca/vente-de-garage)_
 
 ---
