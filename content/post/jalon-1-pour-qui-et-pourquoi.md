@@ -10,7 +10,7 @@ thumbnail = "images/vision.svg"
 
 ## Pour qui, et pourquoi?
 
-(/images/vision.svg)
+![Image soulignant la vision](/images/vision.svg)
 
 ### Qui sont vos utilisateurs?
 
