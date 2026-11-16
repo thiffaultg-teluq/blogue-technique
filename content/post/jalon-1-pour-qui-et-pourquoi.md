@@ -46,7 +46,7 @@ Les deux types d'utilisateurs présentés sont aux antipodes, mais je suis conva
 2. Avec la centralisation des ventes de garage à un seul endroit. Les usagers n'auront pas à s'inscrire à sept groupes sur Facebook pour consulter ou afficher les ventes de garages. Ainsi, de toutes parts, tout et chacun sauveront un temps considérable.
    De plus, en restreignant le nombre de groupes de Facebook, les utilisateurs bénéficieront d'un environnement plus sain ; puisque moins de pollutions inutiles seront partagées.
 
-![Capture d’écran prise de Facebook, montrant la panoplie de groupes existants](/images/ventes-de-garage-fb.png)
+![Capture d’écran prise de Facebook, montrant la panoplie de groupes existants](images/ventes-de-garage-fb.png)
 _Source : [site web Facebook](https://www.facebook.com/search/groups/?q=vente%20de%20garage%20valleyfield%20et%20les%20environs&sde=Abo6mQGTwumSH8ghiQqAvvjPX7NFviMO4wSBhxr6grIQwUayjg5k0ye5FNdIS2HCiLkkJOB-TfP5YV29lVJ9zt3H)_
 
 ---
@@ -57,7 +57,7 @@ _Source : [site web Facebook](https://www.facebook.com/search/groups/?q=vente%20
 
 4. Les villes ont commencé à implanter sur leur site web, l'affiche de ventes de garage, ce qui en soit, sont une bonne nouvelle. Cependant, nous nous retrouvons avec la même problématique qu'avec les différents groupes Facebook. Dans notre région, plusieurs villes limitrophes ont les mêmes dates pour les ventes de garage. De ce fait, pour ne rien manquer, une personne doit consulter l'ensemble des sites des villes. La plateforme pourra être divisée non pas avec les villes, mais avec des bassins pour chaque événement.
 
-![Capture d’écran prise sur le site web de la ville de Salaberry-de-Valleyfield](/images/ventes-de-garage-salaberry-de-valleyfield.png)
+![Capture d’écran prise sur le site web de la ville de Salaberry-de-Valleyfield](images/ventes-de-garage-salaberry-de-valleyfield.png)
 _Source : [site web de la ville de Salaberry-de-Valleyfield](https://www.ville.valleyfield.qc.ca/vente-de-garage)_
 
 ---
