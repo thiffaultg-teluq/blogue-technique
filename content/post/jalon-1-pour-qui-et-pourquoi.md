@@ -4,8 +4,12 @@ draft = false
 title = 'Pour qui, et pourquoi?'
 tags = [
     "jalon-1",
-    "utilisateurs"
+    "utilisateurs",
+    "problematique",
+    "vision",
+    "ventes-de-garage"    
 ]
+summary = "Dans cette publication, je présenterai les utilisateurs de l'application et quels problèmes elle corrigera"
 thumbnail = "images/vision.svg"
 +++
 
