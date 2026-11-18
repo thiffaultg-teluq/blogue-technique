@@ -4,7 +4,7 @@ enableSearch = true
 # socials
 twitter = "@janedoe"
 largeTwitterCard = false                                                                          # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Étudiant à l'Université Téluq, au Certificat en informatique appliquée"
+introDescription = "Dans le cadre du cours INF 1410, une application web transactionnelle doit être développée.<br>Mon projet portera sur les ventes de garage."
  introURL = "a-propos/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
@@ -157,7 +157,7 @@ blogDir = "post"
 
 # website author
 [author]
-name = "Gabriel Thiffault"
+name = "Projet | Ventes de garage"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
